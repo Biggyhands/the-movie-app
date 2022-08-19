@@ -1,7 +1,8 @@
 # the-movie-app
 
 In this class we used the location.hash and a lot of conditions to simulate a navegation
-**NOT responsive yet**
+
+**mobile first - NOT responsive yet**
 
 watch deploy=
 
